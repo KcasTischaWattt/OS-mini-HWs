@@ -4,7 +4,7 @@
 
 ### Использование программы
 
-```bash
+```lua
 gcc -o file file.c
 ./file input.txt output.txt
 ```
